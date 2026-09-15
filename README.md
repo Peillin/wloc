@@ -35,7 +35,11 @@ https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.modul
 直接用快捷指令切换 / 清除定位，无需打开选点页面：
 
 - **wloc 设置地理位置**：https://www.icloud.com/shortcuts/a82717d8fdad4e6280866fcf911173f7
+-
+-https://www.icloud.com/shortcuts/368d25fb73a2419ab6d02ec8e22424b6
+- 
 - **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/f42632d406504f24a2cd163af4fe012f
+- https://www.icloud.com/shortcuts/0352d53ed79849d382f50e9adf050662
 
 **用法**
 
